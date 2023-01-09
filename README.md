@@ -9,4 +9,4 @@ Install:
 3) Enjoy :)
 
 
-P/S: If you want to change power on and shutdown times, you can execute vim (or your favorite text editor) macschedulepower.sh
+P/S: If you want change power on and shutdown times, you can execute vim (or your favorite text editor) macschedulepower.sh
