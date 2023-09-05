@@ -1,5 +1,5 @@
 # macscheduler
-Scheduler shutdown and poweroff your Mac with this awesome script :) 
+Scheduler shutdown and poweron your Mac with this awesome script :) 
 
 
 Install:
